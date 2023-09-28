@@ -2,6 +2,7 @@
 README for Git Repository
 Project Overview
 
+This README provides information about running automated tests for the project Comtrade shop. Automated tests are designed to verify the functionality and integration of various components within the application, such as registration forms, product purchases, and more.
 This repository contains a Java project developed using the following technologies:
 
     Java version: "14.0.2" (2020-07-14)

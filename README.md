@@ -1,4 +1,4 @@
-# CombinedTests
+# POM for Comtrade shop
 README for Git Repository
 Project Overview
 
